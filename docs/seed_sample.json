@@ -1,0 +1,42 @@
+{
+  "workouts": [
+    {
+      "uid": "TEST_UID",
+      "date": "2025-08-01T08:00:00.000Z",
+      "type": "Run",
+      "durationMin": 30,
+      "calories": 220
+    },
+    {
+      "uid": "TEST_UID",
+      "date": "2025-08-02T18:00:00.000Z",
+      "type": "Yoga",
+      "durationMin": 40,
+      "calories": 150
+    }
+  ],
+  "meals": [
+    {
+      "uid": "TEST_UID",
+      "date": "2025-08-01T07:30:00.000Z",
+      "items": [
+        "Rice",
+        "Dal",
+        "Egg"
+      ],
+      "calories": 600,
+      "protein": 30,
+      "carbs": 80,
+      "fat": 15,
+      "waterMl": 250
+    }
+  ],
+  "moods": [
+    {
+      "uid": "TEST_UID",
+      "date": "2025-08-01T21:00:00.000Z",
+      "mood": "happy",
+      "note": "Great run!"
+    }
+  ]
+}
