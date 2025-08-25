@@ -1,6 +1,6 @@
 # FitMate – Final Project Report
 
-**Student:** Prashant Sapkota  
+**Student:** Prashant Sapkota(LC0003001683)
 **Program:** BIT (VI Semester)  
 **Instructor:** Aadarsha Dhakal  
 **Date:** August 24, 2025
