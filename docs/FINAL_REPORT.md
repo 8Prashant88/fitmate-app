@@ -11,8 +11,6 @@ FitMate is a cross-platform Flutter application that helps users track workouts,
 ## Introduction
 The app addresses the challenge of maintaining consistent health routines by providing an intuitive, integrated solution with reminders and progress tracking.
 
-## System Architecture
-See `docs/architecture.png` and `docs/architecture_mermaid.md`.
 
 ## Technology Stack
 Flutter (Dart), Firebase (Auth, Firestore, Messaging), Riverpod, Local Notifications.
